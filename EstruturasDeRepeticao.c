@@ -5,7 +5,7 @@
 
 int main()
 {
-    int contador,i,numero; 
+    int contador,numero; 
       
     /*while(contador>-10){
     printf("%d,",contador);
@@ -13,7 +13,7 @@ int main()
     }
     */
     
-    /*for(i=0;i<10;i++){
+    /*for(int i=0;i<10;i++){
         printf("%d,",i);
     }
     */
